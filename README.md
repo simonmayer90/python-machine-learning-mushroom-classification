@@ -1,4 +1,4 @@
-# mushroom-classifier: Building a classification model for poisonous mushrooms.
+# mushroom-classification: Building a classification model for poisonous mushrooms.
 This project is a part of the [DataScience Bootcamp](https://www.wbscodingschool.com/data-science-bootcamp/) at [WBS Coding School](https://www.wbscodingschool.com/).  Other datascience projects can be found at the [main GitHub repo](https://github.com/simonmayer90).
 
 #### Project Status: Completed
