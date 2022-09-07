@@ -23,8 +23,8 @@ Special weight should be put on avoiding false negatives (i.e. predicting mushro
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](https://github.com/simonmayer90/mushroom-classifier/tree/main/data) within this repo. 
-3. Jupyter notebooks are being kept [here](https://github.com/simonmayer90/mushroom-classifier) at the parent level of this repo.
+2. Raw Data is being kept [here](https://github.com/simonmayer90/python-machine-learning-mushroom-classification/tree/main/data) within this repo. 
+3. Jupyter notebooks are being kept [here](https://github.com/simonmayer90/python-machine-learning-mushroom-classification) at the parent level of this repo.
 
 ## Contributing Members  
 [Tobias (github)](https://github.com/tobiasaurer)
